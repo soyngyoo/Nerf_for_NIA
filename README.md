@@ -1,6 +1,6 @@
 # Nerf_for_NIA
 
-Python 3.7.13 (default, Apr 24 2022, 01:04:09)
+Python 3.7.13
 
 Ubuntu 18.04
 
